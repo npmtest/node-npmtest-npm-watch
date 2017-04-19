@@ -1,4 +1,7 @@
-# test coverage for  [npm-watch (v0.1.8)](https://github.com/grncdr/npm-watch)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-watch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-watch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-watch.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-watch)
+# npmtest-npm-watch
+
+#### test coverage for  [npm-watch (v0.1.8)](https://github.com/grncdr/npm-watch)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-watch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-watch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-watch.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-watch)
+
 #### run scripts from package.json when files change
 
 [![NPM](https://nodei.co/npm/npm-watch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-watch)
